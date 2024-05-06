@@ -10,7 +10,7 @@ function App() {
       <Herosection />
       <Worksection />
       <Staticticessection/>
-      {/* <Averagesection/> */}
+      <Averagesection/>
     </div>
   );
 }
