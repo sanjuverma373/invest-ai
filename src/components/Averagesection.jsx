@@ -22,35 +22,35 @@ const Averagesection = () => {
                          <div className=' lg:block hidden'>
                               <div className='flex items-center gap-6'>
                                    <div className=' flex lg:flex-col'>
-                                        <div className=' bg-white max-w-[145px] flex items-center justify-center min-h-[134px] mb-[18px]'>
+                                        <div className=' bg-white max-w-[145px] flex items-center justify-center min-h-[134px] mb-[18px] cursor-pointer'>
                                              <img src={google} alt="google" />
                                         </div>
-                                        <div className=' bg-white max-w-[145px] flex items-center justify-center min-h-[134px] mb-[18px]'>
+                                        <div className=' bg-white max-w-[145px] flex items-center justify-center min-h-[134px] mb-[18px] cursor-pointer'>
                                              <img src={spotify} alt="spotify" />
                                         </div>
-                                        <div className=' bg-white max-w-[145px] flex items-center justify-center min-h-[134px] mb-[18px]'>
+                                        <div className=' bg-white max-w-[145px] flex items-center justify-center min-h-[134px] mb-[18px] cursor-pointer'>
                                              <img src={samsung} alt="samsung" />
                                         </div>
-                                        <div className=' bg-white max-w-[145px] flex items-center justify-center min-h-[134px] mb-[18px]'>
+                                        <div className=' bg-white max-w-[145px] flex items-center justify-center min-h-[134px] mb-[18px] cursor-pointer'>
                                              <img src={stripe} alt="stripe" />
                                         </div>
                                    </div>
                                    <div className=' flex lg:flex-col'>
-                                        <div className=' bg-white max-w-[145px] flex items-center justify-center min-h-[134px] mb-[18px]'>
+                                        <div className=' bg-white max-w-[145px] flex items-center justify-center min-h-[134px] mb-[18px] cursor-pointer'>
                                              <img src={adani} alt="adani" />
                                         </div>
-                                        <div className=' bg-white max-w-[145px] flex items-center justify-center min-h-[134px] mb-[18px]'>
+                                        <div className=' bg-white max-w-[145px] flex items-center justify-center min-h-[134px] mb-[18px] cursor-pointer'>
                                              <img src={tata} alt="tata" />
                                         </div>
-                                        <div className=' bg-white max-w-[145px] flex items-center justify-center min-h-[134px] mb-[18px]'>
+                                        <div className=' bg-white max-w-[145px] flex items-center justify-center min-h-[134px] mb-[18px] cursor-pointer'>
                                              <img src={tesla} alt="samsung" />
                                         </div>
                                    </div>
                                    <div className=' flex lg:flex-col'>
-                                        <div className=' bg-white max-w-[145px] flex items-center justify-center min-h-[134px] mb-[18px]'>
+                                        <div className=' bg-white max-w-[145px] flex items-center justify-center min-h-[134px] mb-[18px] cursor-pointer'>
                                              <img src={company} alt="company" />
                                         </div>
-                                        <div className=' bg-white max-w-[145px] flex items-center justify-center min-h-[134px] mb-[18px]'>
+                                        <div className=' bg-white max-w-[145px] flex items-center justify-center min-h-[134px] mb-[18px] cursor-pointer'>
                                              <img src={relaince} alt="relaince" />
                                         </div>
                                    </div>
