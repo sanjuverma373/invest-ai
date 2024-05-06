@@ -23,35 +23,35 @@ const Averagesection = () => {
                               <div className='flex items-center gap-6'>
                                    <div className=' flex lg:flex-col'>
                                         <div className=' bg-white max-w-[145px] flex items-center justify-center min-h-[134px] mb-[18px] cursor-pointer'>
-                                             <img src={google} alt="google" />
+                                             <a href="https://www.google.co.in/" target='_blank'><img src={google} alt="google" /></a>
                                         </div>
                                         <div className=' bg-white max-w-[145px] flex items-center justify-center min-h-[134px] mb-[18px] cursor-pointer'>
-                                             <img src={spotify} alt="spotify" />
+                                             <a href="https://open.spotify.com/" target='_blank'><img src={spotify} alt="spotify" /></a>
                                         </div>
                                         <div className=' bg-white max-w-[145px] flex items-center justify-center min-h-[134px] mb-[18px] cursor-pointer'>
-                                             <img src={samsung} alt="samsung" />
+                                             <a href="https://www.samsung.com/in/" target='_blank'><img src={samsung} alt="samsung" /></a>
                                         </div>
                                         <div className=' bg-white max-w-[145px] flex items-center justify-center min-h-[134px] mb-[18px] cursor-pointer'>
-                                             <img src={stripe} alt="stripe" />
-                                        </div>
-                                   </div>
-                                   <div className=' flex lg:flex-col'>
-                                        <div className=' bg-white max-w-[145px] flex items-center justify-center min-h-[134px] mb-[18px] cursor-pointer'>
-                                             <img src={adani} alt="adani" />
-                                        </div>
-                                        <div className=' bg-white max-w-[145px] flex items-center justify-center min-h-[134px] mb-[18px] cursor-pointer'>
-                                             <img src={tata} alt="tata" />
-                                        </div>
-                                        <div className=' bg-white max-w-[145px] flex items-center justify-center min-h-[134px] mb-[18px] cursor-pointer'>
-                                             <img src={tesla} alt="samsung" />
+                                             <a href="https://stripe.com/in" target='_blank'><img src={stripe} alt="stripe" /></a>
                                         </div>
                                    </div>
                                    <div className=' flex lg:flex-col'>
                                         <div className=' bg-white max-w-[145px] flex items-center justify-center min-h-[134px] mb-[18px] cursor-pointer'>
-                                             <img src={company} alt="company" />
+                                             <a href="https://stackoverflow.com/questions/70552532/i-cant-get-localhost3001-api-notes-to-display-anything" target='_blank'><img src={adani} alt="adani" /></a>
                                         </div>
                                         <div className=' bg-white max-w-[145px] flex items-center justify-center min-h-[134px] mb-[18px] cursor-pointer'>
-                                             <img src={relaince} alt="relaince" />
+                                             <a href="https://www.tatamotors.com/" target='_blank'><img src={tata} alt="tata" /></a>
+                                        </div>
+                                        <div className=' bg-white max-w-[145px] flex items-center justify-center min-h-[134px] mb-[18px] cursor-pointer'>
+                                             <a href="https://www.tesla.com/" target='_blank'><img src={tesla} alt="samsung" /></a>
+                                        </div>
+                                   </div>
+                                   <div className=' flex lg:flex-col'>
+                                        <div className=' bg-white max-w-[145px] flex items-center justify-center min-h-[134px] mb-[18px] cursor-pointer'>
+                                             <a href="https://en.wikipedia.org/wiki/Company" target='_blank'><img src={company} alt="company" /></a>
+                                        </div>
+                                        <div className=' bg-white max-w-[145px] flex items-center justify-center min-h-[134px] mb-[18px] cursor-pointer'>
+                                             <a href="https://www.ril.com/" target='_blank'><img src={relaince} alt="relaince" /></a>
                                         </div>
                                    </div>
                               </div>
